@@ -1,0 +1,41 @@
+
+pip install matplotlib: used to generate graphs in Python
+
+The Ultimate Beginners Guide to Python NumPy
+
+https://www.udemy.com/course/the-ultimate-beginners-guide-to-python-numpy/
+
+
+
+Array attributes: https://numpy.org/doc/stable/reference/arrays.ndarray.html#array-attributes.
+
+Filled Arrays: https://numpy.org/doc/stable/reference/routines.array-creation.html#from-shape-or-value
+
+Array initializers from intervals: https://numpy.org/doc/stable/reference/routines.array-creation.html#numerical-ranges
+
+Conversion methods: https://numpy.org/doc/stable/reference/arrays.ndarray.html#array-conversion
+
+Shape manipulation methods: https://numpy.org/doc/stable/reference/arrays.ndarray.html#shape-manipulation
+
+Item selection and manipulation methods: https://numpy.org/doc/stable/reference/arrays.ndarray.html#item-selection-and-manipulation
+
+Calculation methods: https://numpy.org/doc/stable/reference/arrays.ndarray.html#calculation
+
+## Distributions
+
+NumPy offers the main distributions for sampling, the full list can be found in the documentation: https://numpy.org/devdocs/reference/random/generator.html#distributions
+
+
+Array Manipulation functions documentation: https://numpy.org/doc/stable/reference/generated/numpy.pad.html#numpy-pad
+
+Ufunc (universal functions) documentation: https://numpy.org/doc/stable/reference/ufuncs.html#available-ufuncs
+
+Mathematical functions documentation: https://numpy.org/doc/stable/reference/routines.math.html
+
+
+Other linear algebra functions, with more technical application: https://numpy.org/doc/stable/reference/routines.linalg.html#linear-algebra-numpy-linalg
+
+Other statistical functions: https://numpy.org/doc/stable/reference/routines.statistics.html
+
+
+Other saving and loading array methods: https://numpy.org/devdocs/reference/routines.io.html#input-and-output

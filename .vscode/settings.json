@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Python+Course/11_functions",
+        "./6. Functions and modules/5. Modules and Pip - Using External Libraries/module_package"
+    ]
+}
